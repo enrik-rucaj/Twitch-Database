@@ -1,0 +1,7 @@
+Voto Progetto: 29/30
+
+Errore: Nella sezione "Creazione delle tabelle" le relazioni 
+	N-a-N hanno differenti nomi rispetto al nome della 
+	relazione nel diagramma ER ristrutturato Inoltre, 
+	in "ListaBannati", per come descritto, dataBan non 
+	può essere chiave per la tabella "Ban".
